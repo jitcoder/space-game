@@ -1,0 +1,8 @@
+{
+  "name": "Basic Shuttle",
+  "id": "shuttle",
+  "frames": {
+    "idle": [0,1,2],
+    "moving": [3,4,5]
+  }
+}
